@@ -1,4 +1,4 @@
-package formation.hello;
+package plus.competence.formation.premierapplication;
 
 import org.junit.Test;
 

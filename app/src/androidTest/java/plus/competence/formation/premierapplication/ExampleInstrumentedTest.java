@@ -1,4 +1,4 @@
-package formation.hello;
+package plus.competence.formation.premierapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("formation.hello", appContext.getPackageName());
+        assertEquals("plus.competence.formation.premierapplication", appContext.getPackageName());
     }
 }
